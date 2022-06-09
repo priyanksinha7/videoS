@@ -7,7 +7,7 @@ import Title from './components/Title/title';
 
 function App() {
   return (
-     <div>
+     <div  id="cnt">
        <Container>
          <MyNavbar/>
          </Container>
